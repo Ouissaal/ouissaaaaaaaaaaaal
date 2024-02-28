@@ -1,0 +1,40 @@
+body{
+    box-sizing: content-box;
+    background-color: rgba(235, 208, 141, 0.859);
+
+
+}
+form{
+     background-color: darkolivegreen;
+    padding: 10px 20px;
+    border-radius: 8px;
+    width: 400px;
+    margin: auto;
+    box-shadow: rgba(rgb(0, 0, 0), rgb(17, 82, 102), blue, 1);
+    
+}
+img{
+    width: 100%;
+    margin: auto;
+    
+}
+h3{
+    color: darksalmon;
+
+}
+.preparation{
+    background-color: wheat;
+    border-radius: 10px;
+    margin: auto;
+    padding: 1rem;
+    
+}
+strong{
+    color: goldenrod;
+    
+}
+h1{
+    color: whitesmoke;
+    text-decoration: underline wavy gold;
+  
+}
